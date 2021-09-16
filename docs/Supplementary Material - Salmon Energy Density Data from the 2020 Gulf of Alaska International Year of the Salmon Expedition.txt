@@ -1,0 +1,5 @@
+Salmon Energy Density Protocols from the 2020 Gulf of Alaska International Year of the Salmon Expedition
+
+Requirements and Approach: Collect muscle samples for analysis of energy content after the cruise. We will estimate energy content of a subset of collected salmon by removing 10-15 g of muscle tissue between the dorsal and adipose fins. Muscle will be placed in pre-labeled bags and frozen at -40 or -80 C. Analysis of energy content will be conducted after the cruise using standard laboratory techniques (bomb calorimetry, dehydration, lipid extraction, analyses of lipid classes, proximate analysis [moisture, lipid, protein, ash]). A subset of whole fish will also be retained to ensure energy content results from muscle can be scaled to whole fish energy content.
+Required onboard infrastructure: Clean workplace, -80 or -40 Freezer
+Materials and equipment: Dissection kits, gloves, pre-labelled bags, PPE
